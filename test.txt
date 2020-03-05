@@ -2,3 +2,5 @@ Test Git V1
 Test Git V2
 Test Git V3
 Test Git V4
+https://github.com/praphat/test-git.git
+https://github.com/praphat/test-git.git
